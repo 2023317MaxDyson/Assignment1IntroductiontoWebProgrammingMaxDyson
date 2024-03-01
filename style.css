@@ -1,0 +1,208 @@
+/**
+ * @name: Assignement1
+ * @Course Code: SODV1201
+ * @class: Software Development Diploma program. 
+ * @author: Max Dyson. 
+*/
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+/*  Main Page   */
+
+ #index{
+  margin-top: 30px;
+  background-color: rgb(0, 0, 0);
+}
+
+nav {
+  margin-top: 40px;
+  list-style-type: none;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow: hidden;
+  padding: 10px;
+  background-color: rgb(119, 255, 81);
+   height: 20px;
+}
+
+a{
+  
+  margin-left: 260px;
+float: center;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+#imageSection  img{
+background-color:rgb(0, 37, 157);
+opacity: 0.6;
+}
+
+
+
+
+
+img{
+  padding: 20px;
+  border-style: solid;
+  color: white;
+  margin-left: 600px;
+  margin-top: 60px;
+  width: 200px;
+  height: 200px;
+}
+
+
+#imageSection  p{
+color: white;
+text-align : center;
+font-size: 16px;
+}
+
+
+
+ #index h1 {
+  font-family: Helvetica, sans-serif;
+  margin-top: 30px;
+   color: white;
+    text-align : center;
+  
+ }
+
+
+ 
+#footer1{
+  margin-top: 150px;
+  height: 80px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-color: rgb(119, 255, 81);
+}
+
+
+
+/* MarkToGraderConverterPage  */
+
+
+#marktoGradeBackground{
+background-color: rgb(142, 142, 142);
+
+}
+
+#marktoGradeBackground h1{
+  float: left;
+  margin-top: 10px;
+  margin-right: 200px;
+  height: 200px;
+  padding: 20px;
+  background-color: white;
+}
+
+
+
+#footer2{
+  background-color: rgb(127, 235, 127);
+  font-size: 20px;
+  text-align: center;
+  margin-Top: 1000px;
+}
+
+#container{
+ margin-top: 60px;
+ margin-left: 300px;
+}
+
+#convert{
+  width: 70px;
+  height: 20px;
+  background-color: blue;
+}
+
+/*  Staff Page    */
+
+#staffBackground{
+  background: linear-gradient(to bottom left, #ffffff 0%, #171717 72%);
+}
+
+#staffBackground h1{
+  background-color:rgb(0, 240, 0);
+  text-align : center;
+}
+
+
+h3{
+  font-family: Helvetica, sans-serif;
+  text-align: center; 
+}
+
+
+#List  {
+text-align : center;
+font-size: 19px;
+}
+
+#Section{
+ margin-left: 400px;
+ margin-right: 400px;
+  border-style: solid;
+}
+
+#Top {
+padding: 20px;
+background-color: rgb(255, 204, 0);
+
+
+}
+
+#Bottom{
+ padding: 20px;
+background-color: rgb(181, 176, 176);
+}
+
+
+#footer3{
+  text-align: center;
+  background-color: rgb(119, 255, 81);
+  font-size:  20px;
+}
+
+
+
+/* Weather Page */
+
+
+#footer4{
+  text-align: center;
+  background-color: rgb(119, 255, 81);
+  font-size:  20px;
+  margin-Top: 1000px;
+}
+
+#weatherBackground{
+  background: linear-gradient(to bottom left, #040404 0%, #676766 72%);
+}
+
+#weatherBackground h1{
+  text-align: center;
+  background-color: grey;
+}
+
+#grouped{
+color: rgb(255, 255, 255);
+text-align: center;
+margin-top: 150px;
+}
+
+#grouped #convertDegree{
+  height:  40px;
+  width: 150px;
+  background-color:   linear-gradient(to bottom left, #9d9999 0%, #ffffff 72%);
+}
+
+#grouped #degree{
+width: 60px;
+  height:  20px;
+}
