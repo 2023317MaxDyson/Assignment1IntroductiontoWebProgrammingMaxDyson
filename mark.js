@@ -72,7 +72,6 @@ Grade.innerHTML = "";
 
 // If the value of markisaNumber is less than or equal to 100 and greater than 90 =  Grade A
 
-
 if(parseInt(markisaNumber.value) <= 100 && parseInt(markisaNumber.value) > 90 ){
 Grade.innerHTML = "Grade A";
 Grade.style.color = "green";
